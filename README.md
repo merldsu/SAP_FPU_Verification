@@ -5,7 +5,7 @@ This repository contains the Graphical User Interface (GUI) of the Verification 
 # Installation Guide
 Getting the source
 
-       git clone 
+       git clone https://github.com/merldsu/SAP_FPU_Verification.git
        
 Installing Python Packages
 
