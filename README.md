@@ -10,6 +10,9 @@ Getting the source
 Installing Python Packages
 
        pip3 install -r requirement.txt   # install it only once
+       
+# Graphical User Interface (GUI)
+![Screenshot from 2023-01-29 12-08-08](https://user-images.githubusercontent.com/53592110/229431730-a3b47f4e-6651-4dac-bd3e-d1c74b872c6b.png)
 
 # LICENSE
 
@@ -24,6 +27,7 @@ Installing Python Packages
    Unless required by applicable law or agreed to in writing, software
    distributed under the License is distributed on an "AS IS" BASIS,
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
    See the License for the specific language governing permissions and
    limitations under the License.
 
