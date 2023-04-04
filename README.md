@@ -12,7 +12,8 @@ Installing Python Packages
        pip3 install -r requirement.txt   # install it only once
        
 # Graphical User Interface (GUI)
-![Screenshot from 2023-01-29 12-08-08](https://user-images.githubusercontent.com/53592110/229431730-a3b47f4e-6651-4dac-bd3e-d1c74b872c6b.png)
+![Screenshot from 2023-04-04 00-26-22](https://user-images.githubusercontent.com/53592110/229607808-f257cb66-024d-446b-8072-1bb21e8b37f2.jpeg)
+
 
 # LICENSE
 
