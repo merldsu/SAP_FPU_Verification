@@ -2,6 +2,9 @@
 
 This repository contains the Graphical User Interface (GUI) of the Verification Environment of SAP-FPU. 
 
+# Supported OS
+       Ubuntu 20.04 or higher versions
+       
 # Installation Guide
 Getting the source
 
@@ -10,7 +13,11 @@ Getting the source
 Installing Python Packages
 
        pip3 install -r requirement.txt   # install it only once
-       
+
+Launching of GUI
+
+       ./SAP_FPU_Verification_Environment_MERL
+
 # Graphical User Interface (GUI)
 ![Screenshot from 2023-04-04 00-26-22](https://user-images.githubusercontent.com/53592110/229607808-f257cb66-024d-446b-8072-1bb21e8b37f2.jpeg)
 
